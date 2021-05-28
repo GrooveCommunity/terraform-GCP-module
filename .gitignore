@@ -1,0 +1,19 @@
+**/var-old
+**/.terraform/*
+**/.terraform.lock.hcl
+**/terraform.tfstate
+**/terraform.tfstate.backup
+
+
+### Terraform ###
+# Local .terraform directories
+**/.terraform/*
+
+*.tfstate
+*.tfstate.*
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
